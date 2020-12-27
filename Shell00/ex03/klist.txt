@@ -1,0 +1,5 @@
+Credentials cache: API:A2CDA3F6-CB60-491A-BBBC-AD32C6F3EB19
+        Principal: avelazqu@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 25 15:13:22 2020  Nov 26 01:13:22 2020  krbtgt/42MADRID.COM@42MADRID.COM
